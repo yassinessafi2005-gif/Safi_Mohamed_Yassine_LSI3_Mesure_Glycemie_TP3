@@ -21,12 +21,12 @@
         android:textStyle="bold" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/textAge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:ems="10"
-        android:text="Votre age"
+        android:text="Votre age :"
         android:textSize="20sp" />
 
     <SeekBar
@@ -37,7 +37,7 @@
         android:max="120" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
@@ -73,7 +73,7 @@
     </RadioGroup>
 
     <EditText
-        android:id="@+id/editTextText"
+        android:id="@+id/etValeur"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
